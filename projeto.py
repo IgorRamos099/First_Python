@@ -1,18 +1,3 @@
-# tarefa = input("Digite uma tarefa: ")
-
-# print("Tarefa foi adicionada!")
-# print("Tarefas: ", tarefa)
-
-# while True:
-#     opcao = input("Digite uma tarefa (ou 'sair' para finalizar): ")
-#     if opcao.lower() == 'sair':
-#         break
-#     tarefa = opcao
-
-#     print("Tarefa adicionada: ", tarefa)
-
-# print("Ultima tarefa adicionada: ",tarefa)
-
 import json
 
 tarefas = []
