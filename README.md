@@ -1,20 +1,20 @@
-# 📝 Gerenciador de Tarefas (Python) #
+#  Gerenciador de Tarefas (Python) #
 
 Este é um projeto simples de linha de comando para gerenciar tarefas, desenvolvido em Python. Ele permite adicionar, listar, remover e salvar tarefas em um arquivo .JSON.
 
-# ⚙️ Funcionalidades #
+#  Funcionalidades #
 
-- ✅ Adicionar tarefas com nome e prioridade
-- 📋 Listar tarefas existentes
-- ❌ Remover tarefas pelo nome
-- 💾 Salvar tarefas em arquivo JSON
-- 📂 Carregamento automático das tarefas salvas ao iniciar.
+-  Adicionar tarefas com nome e prioridade
+-  Listar tarefas existentes
+-  Remover tarefas pelo nome
+-  Salvar tarefas em arquivo JSON
+-  Carregamento automático das tarefas salvas ao iniciar.
 
-## ⚙️ Requisitos
+##  Requisitos
 
 - Python 3.8 ou superior
 
-### 🔧 Como instalar o Python
+###  Como instalar o Python
 
 Caso ainda não tenha o Python instalado, siga as instruções abaixo:
 
@@ -26,7 +26,7 @@ Para verificar se está instalado corretamente, digite no terminal:
 ```
 python --version
 ```
-## 🚀 Como executar
+##  Como executar
 
 Para executar a aplicação em sua máquina local, siga os seguintes passos:
 
@@ -36,7 +36,7 @@ cd First_Python
 python gerenciador.py
 ```
 
-# 🧱 Estrutura do projeto #
+#  Estrutura do projeto #
 
 -Gerenciador.py      -- Código-fonte principal
 
